@@ -1,0 +1,27 @@
+@media screen and (max-width:979px) and (min-width:768px) {
+    .home{
+        width: 100%;
+    }
+    .navbar ul li{
+        padding: 10px 5px;
+    }
+    .service .line1{
+        margin-left: 310px;
+    }
+    .service .line2{
+        margin-left: 295px;
+    }
+    .service .container .item1{
+        width: 60%;
+    }
+}
+@media screen and (max-width:767px) and (min-width:500px) {
+    .navbar ul li{
+        padding: 10px 2px;
+    }
+}
+@media screen and (max-width:499px)  {
+    .navbar ul li{
+        padding: 10px 1px;
+    }
+}
